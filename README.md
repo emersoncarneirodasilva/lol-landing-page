@@ -1,4 +1,4 @@
-# LoL Landing Page
+# League of Legends Landing Page
 
 Landing Page do jogo "League of Legends".
 
