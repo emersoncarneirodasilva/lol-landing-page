@@ -10,10 +10,10 @@ const Header = () => {
           <img src={logo} alt="" />
         </div>
         <ul className="header__nav">
-          <li><a href="#">overview</a></li>
-          <li><a href="#">news</a></li>
-          <li><a href="#">champions</a></li>
-          <li><a href="#">support</a></li>
+          <li><a href="https://www.leagueoflegends.com/en-us/">overview</a></li>
+          <li><a href="https://www.leagueoflegends.com/en-us/news/">news</a></li>
+          <li><a href="https://www.leagueoflegends.com/en-us/champions/">champions</a></li>
+          <li><a href="https://support.riotgames.com/hc/en-us/">support</a></li>
         </ul>
       </div>
     </div>
